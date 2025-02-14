@@ -1,0 +1,7 @@
+C:\Users\milos\source\repos\Projek_zaliczeniowy\Projekt_zaliczeniowy.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Projekt_zaliczeniowy.Tests
+C:\Users\milos\source\repos\Projek_zaliczeniowy\Projekt_zaliczeniowy.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_Projekt_zaliczeniowy.Tests
+C:\Users\milos\source\repos\Projek_zaliczeniowy\Projekt_zaliczeniowy.Tests\obj\Debug\net9.0\Projekt_zaliczeniowy.Tests.csproj.AssemblyReference.cache
+C:\Users\milos\source\repos\Projek_zaliczeniowy\Projekt_zaliczeniowy.Tests\obj\Debug\net9.0\Projekt_zaliczeniowy.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milos\source\repos\Projek_zaliczeniowy\Projekt_zaliczeniowy.Tests\obj\Debug\net9.0\Projekt_zaliczeniowy.Tests.AssemblyInfoInputs.cache
+C:\Users\milos\source\repos\Projek_zaliczeniowy\Projekt_zaliczeniowy.Tests\obj\Debug\net9.0\Projekt_zaliczeniowy.Tests.AssemblyInfo.cs
+C:\Users\milos\source\repos\Projek_zaliczeniowy\Projekt_zaliczeniowy.Tests\obj\Debug\net9.0\Projekt_zaliczeniowy.Tests.csproj.CoreCompileInputs.cache

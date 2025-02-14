@@ -1,0 +1,44 @@
+﻿@model MedicalAppointments.Data.Appointment
+
+@{
+    ViewData["Title"] = "Dodaj Wizytę";
+}
+
+<h2>Dodaj Wizytę</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="PatientId">Pacjent</label>
+        <select asp-for="PatientId" class="form-control" asp-items="@(new SelectList(ViewBag.Patients, "Id", "FullName"))">
+            <option value="">-- Wybierz pacjenta --</option>
+        </select>
+        <span asp-validation-for="PatientId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DoctorId">Lekarz</label>
+        <select asp-for="DoctorId" class="form-control" asp-items="@(new SelectList(ViewBag.Doctors, "Id", "FullName"))">
+            <option value="">-- Wybierz lekarza --</option>
+        </select>
+        <span asp-validation-for="DoctorId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Date">Data i godzina</label>
+        <input asp-for="Date" type="datetime-local" class="form-control" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Status">Status</label>
+        <select asp-for="Status" class="form-control">
+            <option value="Scheduled">Zaplanowana</option>
+            <option value="Completed">Zakończona</option>
+            <option value="Cancelled">Anulowana</option>
+        </select>
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Zapisz</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

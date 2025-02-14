@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projek_zaliczeniowy.props" />
+</Project>

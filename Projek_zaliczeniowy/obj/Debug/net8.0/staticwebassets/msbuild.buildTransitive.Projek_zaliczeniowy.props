@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Projek_zaliczeniowy.props" />
+</Project>

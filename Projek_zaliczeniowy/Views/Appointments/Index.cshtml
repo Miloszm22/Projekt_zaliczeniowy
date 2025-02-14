@@ -1,0 +1,63 @@
+﻿@model List<MedicalAppointments.Data.Appointment>
+
+
+
+@{
+    ViewData["Title"] = "Lista wizyt";
+}
+
+<h2 class="my-4"><i class="fas fa-calendar-alt"></i> Lista wizyt</h2>
+
+@if (User.IsInRole("Admin"))
+{
+    <a asp-action="Create" class="btn btn-success mb-3"><i class="fas fa-plus"></i> Dodaj wizytę</a>
+}
+
+<table class="table table-striped shadow">
+    <thead class="table-dark">
+        <tr>
+            <th>Pacjent</th>
+            <th>Lekarz</th>
+            <th>Data</th>
+            <th>Status</th>
+            @if (User.IsInRole("Admin"))
+            {
+                <th>Akcje</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.Patient.FirstName @appointment.Patient.LastName</td>
+                <td>@appointment.Doctor.FirstName @appointment.Doctor.LastName</td>
+                <td>@appointment.Date.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    <span class="badge @(appointment.Status == "Completed" ? "bg-success" : appointment.Status == "Cancelled" ? "bg-danger" : "bg-warning")">
+                        @appointment.Status
+                    </span>
+                </td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@appointment.Id" class="btn btn-danger btn-sm">
+                            <i class="fas fa-trash"></i> Usuń
+                        </a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+

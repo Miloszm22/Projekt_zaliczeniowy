@@ -1,0 +1,14 @@
+﻿@model MedicalAppointments.Data.Doctor
+
+<h2>Edytuj Lekarza</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    @await Html.PartialAsync("_DoctorForm")  @* Wstawiamy Partial View *@
+
+    <button type="submit" class="btn btn-primary">Zapisz</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>
+
+

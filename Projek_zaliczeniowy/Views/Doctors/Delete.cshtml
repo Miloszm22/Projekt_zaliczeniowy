@@ -1,0 +1,15 @@
+﻿@model MedicalAppointments.Data.Doctor
+
+<h2>Usuń Lekarza</h2>
+
+<h3>Czy na pewno chcesz usunąć tego lekarza?</h3>
+<div>
+    <h4>@Model.FirstName @Model.LastName</h4>
+    <p>Specjalizacja: @Model.Specialization</p>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Usuń</button>
+        <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+    </form>
+</div>

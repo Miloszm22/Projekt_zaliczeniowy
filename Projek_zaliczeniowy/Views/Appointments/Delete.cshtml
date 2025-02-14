@@ -1,0 +1,21 @@
+﻿@model MedicalAppointments.Data.Appointment
+
+@{
+    ViewData["Title"] = "Usuń Wizytę";
+}
+
+<h2>Usuń Wizytę</h2>
+
+<div class="alert alert-danger">
+    <p>Czy na pewno chcesz usunąć tę wizytę?</p>
+    <p><strong>Pacjent:</strong> @Model.Patient.FirstName @Model.Patient.LastName</p>
+    <p><strong>Lekarz:</strong> @Model.Doctor.FirstName @Model.Doctor.LastName</p>
+    <p><strong>Data:</strong> @Model.Date.ToString("yyyy-MM-dd HH:mm")</p>
+    <p><strong>Status:</strong> @Model.Status</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Tak, usuń</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

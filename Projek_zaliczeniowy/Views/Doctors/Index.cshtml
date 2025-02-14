@@ -1,0 +1,56 @@
+﻿@model List<MedicalAppointments.Data.Doctor>
+
+
+
+@{
+    ViewData["Title"] = "Lista lekarzy";
+}
+
+<h2 class="my-4"><i class="fas fa-user-md"></i> Lista lekarzy</h2>
+
+@if (User.IsInRole("Admin"))
+{
+    <a asp-action="Create" class="btn btn-success mb-3"><i class="fas fa-plus"></i> Dodaj lekarza</a>
+}
+
+<table class="table table-striped shadow">
+    <thead class="table-dark">
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Specjalizacja</th>
+            @if (User.IsInRole("Admin"))
+            {
+                <th>Akcje</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>@doctor.FirstName</td>
+                <td>@doctor.LastName</td>
+                <td>@doctor.Specialization</td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@doctor.Id" class="btn btn-warning btn-sm"><i class="fas fa-edit"></i> Edytuj</a>
+                        <a asp-action="Delete" asp-route-id="@doctor.Id" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Usuń</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "Projekt_zaliczeniowy.Controllers.Api.AppointmentsApiController",
+    "Method": "GetAppointments",
+    "RelativePath": "api/appointments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Projekt_zaliczeniowy.Controllers.Api.AppointmentsApiController",
+    "Method": "GetAppointment",
+    "RelativePath": "api/appointments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Projekt_zaliczeniowy.Controllers.Api.DoctorsApiController",
+    "Method": "GetDoctors",
+    "RelativePath": "api/doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Projekt_zaliczeniowy.Controllers.Api.DoctorsApiController",
+    "Method": "GetDoctor",
+    "RelativePath": "api/doctors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Projekt_zaliczeniowy.Controllers.Api.PatientsApiController",
+    "Method": "GetPatients",
+    "RelativePath": "api/patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Projekt_zaliczeniowy.Controllers.Api.PatientsApiController",
+    "Method": "GetPatient",
+    "RelativePath": "api/patients/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,708 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\doctors\\_doctorform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\doctors\\_doctorform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\account\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\account\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\models\\homeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\models\\homeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\data\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\data\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\migrations\\20250130184418_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\migrations\\20250130184418_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\projek_zaliczeniowy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\projek_zaliczeniowy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milos\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\DocotorsControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milos\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\AppointmentsControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\api\\appointmentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\api\\appointmentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\api\\doctorsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\api\\doctorsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\controllers\\api\\pateitntsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\controllers\\api\\pateitntsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\obj\\Debug\\net8.0\\Projek_zaliczeniowy.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projek_zaliczeniowy\\obj\\Debug\\net8.0\\Projek_zaliczeniowy.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|c:\\users\\milos\\onedrive\\pulpit\\test\\projek_zaliczeniowy\\projek_zaliczeniowy\\projek_zaliczeniowy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BDE84038-F11A-474D-B6C7-37C5F97E5636}|Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj|solutionrelative:projek_zaliczeniowy\\projek_zaliczeniowy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Projek_zaliczeniowy.csproj",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T23:05:35.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DocotorsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\DocotorsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\DocotorsControllerTests.cs",
+              "ToolTip": "C:\\Users\\milos\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\DocotorsControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\DocotorsControllerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:52:44.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppointmentsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\AppointmentsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\AppointmentsControllerTests.cs",
+              "ToolTip": "C:\\Users\\milos\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\AppointmentsControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Projek_zaliczeniowy\\Projekt_zaliczeniowy.Tests\\AppointmentsControllerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:52:37.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T11:37:56.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Account\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\UserList.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Account\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:42:39.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:26:44.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:24:06.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:20:17.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:18:01.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Models\\HomeViewModels.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Models\\HomeViewModels.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Models\\HomeViewModels.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Models\\HomeViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:17:38.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:14:30.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Models\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Models\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Models\\ProfileViewModel.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Models\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:51:12.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:50:27.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:49:12.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T13:45:12.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T13:39:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\appsettings.json",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\appsettings.json",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\appsettings.json",
+              "RelativeToolTip": "Projek_zaliczeniowy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T13:21:48.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Projek_zaliczeniowy.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\obj\\Debug\\net8.0\\Projek_zaliczeniowy.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\obj\\Debug\\net8.0\\Projek_zaliczeniowy.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\obj\\Debug\\net8.0\\Projek_zaliczeniowy.AssemblyInfo.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\obj\\Debug\\net8.0\\Projek_zaliczeniowy.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:12:22.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:00:27.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppointmentsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\Api\\AppointmentsApiController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\Api\\AppointmentsApiController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\Api\\AppointmentsApiController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\Api\\AppointmentsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:54:21.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PateitntsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\Api\\PateitntsApiController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\Api\\PateitntsApiController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\Api\\PateitntsApiController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\Api\\PateitntsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:53:49.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DoctorsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\Api\\DoctorsApiController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\Api\\DoctorsApiController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\Api\\DoctorsApiController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\Api\\DoctorsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:52:15.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_DoctorForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\_DoctorForm.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Doctors\\_DoctorForm.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\_DoctorForm.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Doctors\\_DoctorForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:39:51.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Appointments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Edit.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Appointments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:25:32.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Appointments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Delete.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Appointments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:25:06.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Doctors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Delete.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Doctors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T18:57:29.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Doctors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Edit.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Doctors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T18:56:35.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T19:49:51.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Doctors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Doctors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T19:46:44.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T19:25:03.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Appointments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T19:20:38.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T19:17:25.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T19:08:33.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250130184418_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Migrations\\20250130184418_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Migrations\\20250130184418_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Migrations\\20250130184418_InitialCreate.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Migrations\\20250130184418_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:44:19.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:41:10.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:40:46.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:39:55.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Program.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Program.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Program.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:37:30.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Projek_zaliczeniowy",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Projek_zaliczeniowy.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T16:47:22.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\Appointment.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Data\\Appointment.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\Appointment.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Data\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:38:35.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\Doctor.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Data\\Doctor.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\Doctor.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Data\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:38:24.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\Patient.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Data\\Patient.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\Patient.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Data\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:38:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Projek_zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\milos\\OneDrive\\Pulpit\\test\\Projek_zaliczeniowy\\Projek_zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Projek_zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:37:59.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

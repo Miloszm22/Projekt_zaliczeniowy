@@ -1,0 +1,93 @@
+﻿@model Projekt_zaliczeniowy.Models.HomeViewModel
+
+
+@{
+    ViewData["Title"] = "Strona Główna";
+}
+
+<div class="container text-center mt-5">
+    <h1 class="display-4">Witaj w systemie zarządzania wizytami</h1>
+    <p class="lead">Zarządzaj lekarzami, pacjentami i wizytami w jednym miejscu.</p>
+
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-user-md"></i> Lekarze</h5>
+                    <p class="card-text">Zarządzaj listą lekarzy w systemie.</p>
+                    <a class="btn btn-primary" asp-controller="Doctors" asp-action="Index">Przejdź</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-users"></i> Pacjenci</h5>
+                    <p class="card-text">Przeglądaj i edytuj dane pacjentów.</p>
+                    <a class="btn btn-primary" asp-controller="Patients" asp-action="Index">Przejdź</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-calendar-alt"></i> Wizyty</h5>
+                    <p class="card-text">Zarządzaj harmonogramem wizyt.</p>
+                    <a class="btn btn-primary" asp-controller="Appointments" asp-action="Index">Przejdź</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@* @{ *@
+@*     ViewData["Title"] = "Strona Główna"; *@
+@* } *@
+
+@* <div class="container mt-5"> *@
+@*     <div class="jumbotron text-center"> *@
+@*         <h1 class="display-4">🏥 Klinika Zdrowia</h1> *@
+@*         <p class="lead">Zarządzaj lekarzami, pacjentami i wizytami w jednym miejscu.</p> *@
+@*         <hr class="my-4"> *@
+@*     </div> *@
+
+@*     <div class="row text-center"> *@
+@*         <div class="col-md-4"> *@
+@*             <div class="card shadow-lg border-0"> *@
+@*                 <div class="card-body"> *@
+@*                     <h5 class="card-title">👨‍⚕️ Lekarze</h5> *@
+@*                     <p class="card-text display-6">@Model.DoctorCount</p> *@
+@*                     <a asp-controller="Doctors" asp-action="Index" class="btn btn-primary">Zarządzaj lekarzami</a> *@
+@*                 </div> *@
+@*             </div> *@
+@*         </div> *@
+
+@*         <div class="col-md-4"> *@
+@*             <div class="card shadow-lg border-0"> *@
+@*                 <div class="card-body"> *@
+@*                     <h5 class="card-title">🩺 Pacjenci</h5> *@
+@*                     <p class="card-text display-6">@Model.PatientCount</p> *@
+@*                     <a asp-controller="Patients" asp-action="Index" class="btn btn-success">Zarządzaj pacjentami</a> *@
+@*                 </div> *@
+@*             </div> *@
+@*         </div> *@
+
+@*         <div class="col-md-4"> *@
+@*             <div class="card shadow-lg border-0"> *@
+@*                 <div class="card-body"> *@
+@*                     <h5 class="card-title">📅 Wizyty</h5> *@
+@*                     <p class="card-text display-6">@Model.AppointmentCount</p> *@
+@*                     <a asp-controller="Appointments" asp-action="Index" class="btn btn-warning">Zarządzaj wizytami</a> *@
+@*                 </div> *@
+@*             </div> *@
+@*         </div> *@
+@*     </div> *@
+
+@*     <div class="text-center mt-4"> *@
+@*         <a asp-controller="Account" asp-action="Profile" class="btn btn-outline-dark">👤 Przejdź do profilu</a> *@
+@*     </div> *@
+@* </div> *@
+
